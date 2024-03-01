@@ -22,3 +22,5 @@ After gaining insights from EDA, predictive models are trained to forecast custo
 ## Conclusion
 Customer churn analysis and prediction are essential for businesses to maintain customer satisfaction and maximize revenue. By leveraging data analytics and machine learning techniques, companies can identify at-risk customers and implement targeted retention strategies.
 
+This README provides an overview of the Customer Churn Analysis & Prediction project, including data sources, EDA, and model training. For detailed implementation and code, please refer to the project files.
+
