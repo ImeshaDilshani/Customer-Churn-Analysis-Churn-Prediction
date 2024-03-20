@@ -5,6 +5,8 @@ This project focuses on analyzing and predicting customer churn in a telecommuni
 
 The dataset used for this project can be found [here](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
 
+![Orange Modern How To Generate More YouTube Viewers Youtube Thumbnail](https://github.com/ImeshaDilshani/Customer-Churn-Analysis-Churn-Prediction/assets/93858302/76690b4c-9597-4c23-8b82-ecd7b2d13260)
+
 ## Exploratory Data Analysis (EDA)
 The EDA phase involves exploring the dataset to gain insights into the underlying patterns and relationships. Key steps in the EDA process include:
 
