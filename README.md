@@ -7,6 +7,8 @@ The dataset used for this project can be found [here](https://www.kaggle.com/dat
 
 ![Orange Modern How To Generate More YouTube Viewers Youtube Thumbnail](https://github.com/ImeshaDilshani/Customer-Churn-Analysis-Churn-Prediction/assets/93858302/76690b4c-9597-4c23-8b82-ecd7b2d13260)
 
+![Orange Modern How To Generate More YouTube Viewers Youtube Thumbnail (2)](https://github.com/ImeshaDilshani/Customer-Churn-Analysis-Churn-Prediction/assets/93858302/acc5c83a-3c2c-4f0f-a3dd-71cd53ad9528)
+
 ## Exploratory Data Analysis (EDA)
 The EDA phase involves exploring the dataset to gain insights into the underlying patterns and relationships. Key steps in the EDA process include:
 
